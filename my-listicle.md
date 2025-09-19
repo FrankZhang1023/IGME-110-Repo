@@ -3,9 +3,9 @@
 ## 1. Public API Lists
 - [Public APIs (Main List)](https://github.com/public-api-lists/public-api-lists)  
 - [Public APIs Project](https://github.com/public-apis/public-apis)  
-- [OpenWeatherMap API](https://openweathermap.org/api) - **天气数据**
-- [NASA APIs](https://api.nasa.gov/) - **太空和天文数据**
-- [PokéAPI](https://pokeapi.co/) - **宝可梦数据**
+- [OpenWeatherMap API](https://openweathermap.org/api) 
+- [NASA APIs](https://api.nasa.gov/) 
+- [PokéAPI](https://pokeapi.co/) 
 
 ## 2. Game Lists
 **Game-related resources and checklists**：
