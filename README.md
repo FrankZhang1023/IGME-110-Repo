@@ -1,1 +1,18 @@
 # IGME-110-Repo
+
+# H1
+## H2
+
+---
+
+1. frute
+   - apple
+   - banana
+   - orange
+2. drinks
+   - water
+   - tea
+
+[https://www.rit.edu](https://www.rit.edu)
+[RIT](https://www.rit.edu)
+![The image](IMG_1809.jpg)
